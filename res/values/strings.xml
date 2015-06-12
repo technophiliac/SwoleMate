@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SwoleMate</string>
+    <string name="new_string">New</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="history">History</string>
+    <string name="muscle_group">Muscle Group:</string>
+    <string name="today">Today</string>
+    <string name="add">Add</string>
+</resources>
